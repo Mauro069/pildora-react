@@ -64,12 +64,24 @@ export default App;
 ```
 
 ### Angular
-- Utiliza Typescript
-- La ultima version es la 17
+- Utiliza TypeScript de manera predeterminada
+- Es un framework completo que proporciona una solución integral para el desarrollo de aplicaciones, incluyendo herramientas para el enrutamiento, manejo de estado, y más.
+- Incluye muchas características por defecto, lo que puede resultar en una aplicación más grande. Sin embargo, también proporciona un conjunto más completo de herramientas y características.
+- Utiliza archivos de plantilla HTML para definir la interfaz de usuario y agrega lógica de presentación a través de atributos especiales.
+- Utiliza servicios y el patrón de arquitectura Flux para gestionar el estado. También tiene su propio sistema de gestión de estado llamado NgRx.
+- Utiliza su propio sistema de "Change Detection" para detectar y aplicar los cambios en el DOM.
+- Puede tener una curva de aprendizaje más pronunciada, especialmente para aquellos nuevos en TypeScript y los conceptos específicos de Angular.
+- Proporciona un sistema de enrutamiento integrado y potente.
 
 ### React
-- Utiliza javascript, se puede usar con Typescript
-- La ultima version es la 18.2
+- Utiliza principalmente JavaScript.
+- Es una biblioteca de vistas. No proporciona un conjunto de herramientas completo para el desarrollo de aplicaciones, pero puede integrarse fácilmente con otras bibliotecas o herramientas.
+- Es más liviano y flexible. Puedes elegir las bibliotecas y herramientas que deseas utilizar en tu proyecto.
+- Utiliza JSX, que es una extensión de JavaScript que permite escribir código HTML directamente en archivos JavaScript.
+- Utiliza el concepto de "estado" y proporciona el hook useState para gestionarlo. También es común utilizar bibliotecas externas como Redux para aplicaciones más complejas.
+- Utiliza una estrategia de "reconciliación" virtual DOM para optimizar las actualizaciones del DOM y mejorar el rendimiento.
+- Tiene una curva de aprendizaje más suave, especialmente para aquellos familiarizados con JavaScript.
+- Utiliza bibliotecas externas como React Router para el enrutamiento.
 
 ## Webs hechas con React
 ![Group 1](https://github.com/Mauro069/pildora-react/assets/81174890/b7140ecd-e502-42a2-9048-740d65709797)
