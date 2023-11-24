@@ -1,12 +1,14 @@
 # Pildora React
-Desarrollado por Facebook, es una libreria de JavaScript utilizada para construir interfaces de usuario modernas y eficientes. Se enfoca en la creación de componentes reutilizables que gestionan su propio estado y se integran para construir aplicaciones complejas.
+Desarrollado por Facebook, es una libreria de JavaScript utilizada para construir interfaces de usuario modernas y eficientes. Se enfoca en la creación de componentes reutilizables que gestionan su propio estado y se integran para construir aplicaciones complejas. 
+
+[Documentacion Oficial](https://es.react.dev/)
 
 ## Virtual DOM
 React utiliza un DOM virtual para optimizar las actualizaciones, permitiendo una experiencia de usuario más rápida. 
 ![image](https://github.com/Mauro069/pildora-react/assets/81174890/a2ab10e1-f4c2-4957-9210-138a9fe1bbc1)
 
 ## JSX
-JSX, que significa "JavaScript XML," es una extensión de la sintaxis de JavaScript que permite escribir código que se parece mucho a HTML o XML. JSX es comúnmente utilizado con React para describir la interfaz de usuario de una aplicación.
+[JSX](https://es.react.dev/learn/writing-markup-with-jsx), que significa "JavaScript XML," es una extensión de la sintaxis de JavaScript que permite escribir código que se parece mucho a HTML o XML. JSX es comúnmente utilizado con React para describir la interfaz de usuario de una aplicación. 
 
 ```jsx
 const element = <h1>Hola Mundo</h1>
